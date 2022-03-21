@@ -11,16 +11,16 @@
 If you're still reading me, why don't we connect?</h4>
 
 <div style="text-align:center;">
-<a href="https://www.instagram.com/awais_khan_officials/">
-  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/adeel.eex/">
+  <img align="left" alt="Adeel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/awaiskhan404/">
-  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/adeel-nasir-457a8b1a7/">
+  <img align="right" alt="Adeel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 	</div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
 <!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
 
 ## 🔥 Streak Stats
@@ -30,7 +30,7 @@ If you're still reading me, why don't we connect?</h4>
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Awaiskhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiskhan404&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Awaiskhan404" height="192px"/>
@@ -46,7 +46,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies

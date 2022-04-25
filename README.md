@@ -29,7 +29,7 @@ If you're still reading me, why don't we connect?</h4>
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeelkbw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/adeelkbw/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeelkbw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelkbw&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adeelkbw" height="192px"/>
@@ -45,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=adeelkbw%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/adeelkbw"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=adeelkbw%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies

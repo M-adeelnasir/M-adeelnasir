@@ -21,19 +21,18 @@ If you're still reading me, why don't we connect?</h4>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p> -->
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiskhan404&theme=algolia" alt="Awaiskhan404"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkbw&theme=algolia" alt="adeelkbw"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeelkbw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiskhan404&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Awaiskhan404" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelkbw&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adeelkbw" height="192px"/>
   <br/>
   </p>
 
@@ -46,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=Awais%adeelkbw's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies

@@ -20,7 +20,7 @@ If you're still reading me, why don't we connect?</h4>
 	</div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adeelkbw&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkbw&theme=algolia" alt="adeelkbw"  /></p>
@@ -45,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=Awais%adeelkbw's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/HxnDev"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=adeelkbw%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies

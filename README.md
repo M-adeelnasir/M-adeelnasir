@@ -28,7 +28,7 @@ If you're still reading me, why don't we connect?</h4>
 ## 💻 GitHub Profile Stats:
 
   <br/>
-  <p align="center">
+  <p align="center" >
 	<a href="https://github.com/adeelkbw/github-readme-stats"><img alt="adeelkbw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeelkbw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;

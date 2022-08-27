@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Adeel Nasir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/adeelkbw/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;MERN+Stack+Engineer;Exploits+Developer;Blockchain+Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-adeelnasir/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;MERN+Stack+Engineer;Exploits+Developer;Blockchain+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">I identify myself as a transparent individual who takes  responsibilities seriously and  knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code . I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
@@ -20,19 +20,19 @@ If you're still reading me, why don't we connect?</h4>
 	</div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adeelkbw&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=M-adeelnasir&label=Profile%20views&color=0e75b6&style=plastic" alt="Adeelnasir" /> </p>
 
 ## 🔥 Streak Stats 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkbw&theme=algolia" alt="adeelkbw"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M-adeelnasir&theme=algolia" alt="adeelnasir"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center" >
-	<a href="https://github.com/adeelkbw/github-readme-stats"><img alt="adeelkbw's github Stats" src="https://github-readme-stats.vercel.app/api?username=adeelkbw&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/M-adeelnasir/github-readme-stats"><img alt="adeelnasir's github Stats" src="https://github-readme-stats.vercel.app/api?username=M-adeelnasir&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelkbw&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adeelkbw" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-adeelnasir&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adeelnasir" height="192px"/>
   <br/>
   </p>
 
@@ -45,7 +45,7 @@ i am also an open-source enthusiast  and maintainer. i learned a lot from the op
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/adeelkbw"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adeelkbw&custom_title=adeelkbw%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/M-adeelnasir"><img alt="adeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=M-adeelnasir&custom_title=M-adeelnasir%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## Technologies
